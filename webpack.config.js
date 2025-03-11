@@ -39,7 +39,7 @@ module.exports = ({develop}) => ({
         {
             test: /\.css$/i,
             use: [
-              MiniCssExtractPlugin.loader, 'css-loader', 'style-loader'
+              MiniCssExtractPlugin.loader, 'style-loader', 'css-loader'
             ]
         },
         {

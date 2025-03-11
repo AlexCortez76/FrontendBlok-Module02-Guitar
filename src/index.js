@@ -1,2 +1,3 @@
-import './styles/main.scss'
-import 'normalize.css/normalize.css'
+import './styles/main.scss';
+import './styles/reset.scss';
+import './styles/font.scss'
